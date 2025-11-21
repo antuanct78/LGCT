@@ -1,5 +1,62 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="DAZN Eleven 2 Portugal" group-title="Deportes", DAZN Eleven 2 PT
+
+#EXTINF:-1, DAZN 1 España
+http://57.129.77.7:8082/DAZN1_Spain_ES_d5b2c.high.m3u8
+#EXTINF:-1, DAZN 2 España
+http://57.129.77.7:8082/DAZN2_Spain_ES_b0eab.high.m3u8
+#EXTINF:-1, DAZN 3 España
+http://57.129.77.7:8082/DAZN3_Spain_ES_d1d9e.high.m3u8
+#EXTINF:-1, DAZN 4 España
+http://57.129.77.7:8082/DAZN4_Spain_ES_7e909.high.m3u8
+#EXTINF:-1, DAZN 1 Alemania
+http://57.129.77.7:8082/DAZN_1_Germany_DE_897e7.high.m3u8
+#EXTINF:-1, DAZN 2 Alemania
+http://57.129.77.7:8082/DAZN_2_Germany_DE_12ea5.high.m3u8
+#EXTINF:-1, DAZN Eleven 1 Portugal
+http://57.129.77.7:8082/DAZN_Eleven_1_Portugal_BE_36cad.high.m3u8
+#EXTINF:-1, DAZN Eleven 2 Portugal
 http://57.129.77.7:8082/DAZN_Eleven_2_Portugal_BE_d0801.high.m3u8
-#EXTINF:-1 tvg-name="DAZN LaLiga" group-title="Deportes", DAZN LaLiga
+#EXTINF:-1, DAZN Eleven 3 Portugal
+http://57.129.77.7:8082/DAZN_Eleven_3_Portugal_BE_dae7d.high.m3u8
+#EXTINF:-1, DAZN Eleven 4 Portugal
+http://57.129.77.7:8082/DAZN_Eleven_4_Portugal_BE_0f32c.high.m3u8
+#EXTINF:-1, DAZN Eleven 5 Portugal
+http://57.129.77.7:8082/DAZN_Eleven_5_Portugal_BE_4dbe6.high.m3u8
+#EXTINF:-1, DAZN Eleven 6 Portugal
+http://57.129.77.7:8082/DAZN_Eleven_6_Portugal_BE_50b6d.high.m3u8
+#EXTINF:-1, DAZN LaLiga
 http://57.129.77.7:8082/DAZN_LaLiga_dda5d.high.m3u8
+#EXTINF:-1, Eleven Sports 1 Poland 4K
+http://57.129.77.7:8082/Eleven_Sports_1_Poland_4k_PL_7ac2d.high.m3u8
+#EXTINF:-1, Eleven Sports 1 Poland
+http://57.129.77.7:8082/Eleven_Sports_1_Poland_PL_14407.high.m3u8
+#EXTINF:-1, Eleven Sports 2 Poland
+http://57.129.77.7:8082/Eleven_Sports_2_Poland_PL_54a4a.high.m3u8
+#EXTINF:-1, Eleven Sports 3 Poland
+http://57.129.77.7:8082/Eleven_Sports_3_Poland_PL_b146e.high.m3u8
+#EXTINF:-1, Match Football 2 (RU)
+http://57.129.77.7:8082/Match_Football_2_(_original_)_RU_ffbf8.high.m3u8
+#EXTINF:-1, Match TV HD (RU)
+http://57.129.77.7:8082/Match_TV_HD_RU_a203f.high.m3u8
+#EXTINF:-1, Movistar Liga De Campeones (ES)
+http://57.129.77.7:8082/Movistar_Liga_De_Campeones_ES_e572a.high.m3u8
+#EXTINF:-1, Premier Sports 1 UK
+http://57.129.77.7:8082/Premier_Sports_1_UK_75a56.high.m3u8
+#EXTINF:-1, Setanta Sports 2 AR
+http://57.129.77.7:8082/Setanta_Sports_2_AR_f6d68.high.m3u8
+#EXTINF:-1, Sky Sports Arena UK
+http://57.129.77.7:8082/Sky_Sports_Arena_UK_d317a.high.m3u8
+#EXTINF:-1, Sky Sports Cricket UK
+http://57.129.77.7:8082/Sky_Sports_Cricket_UK_6d95e.high.m3u8
+#EXTINF:-1, Sky Sports Football UK
+http://57.129.77.7:8082/Sky_Sports_Football_UK_8dbe2.high.m3u8
+#EXTINF:-1, Sky Sports Main Event UK
+http://57.129.77.7:8082/Sky_Sports_Main_Event_UK_eab7a.high.m3u8
+#EXTINF:-1, Sky Sports Premier League UK
+http://57.129.77.7:8082/Sky_Sports_Premier_League_UK_ec5ea.high.m3u8
+#EXTINF:-1, TNT Sports 4 UK
+http://57.129.77.7:8082/TNT_Sports_4_UK_fc508.high.m3u8
+#EXTINF:-1, Ziggo Sport 2
+http://57.129.77.7:8082/Ziggo_Sport_2_868a6.high.m3u8
+#EXTINF:-1, beIN Sports 4 Turkey
+http://57.129.77.7:8082/beIN_Sports_4_Turkey_TR_7683c.high.m3u8
