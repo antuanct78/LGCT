@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="DAZN Eleven 2 Portugal" group-title="Deportes", DAZN Eleven 2 PT
+http://57.129.77.7:8082/DAZN_Eleven_2_Portugal_BE_d0801.high.m3u8
+#EXTINF:-1 tvg-name="DAZN LaLiga" group-title="Deportes", DAZN LaLiga
+http://57.129.77.7:8082/DAZN_LaLiga_dda5d.high.m3u8
